@@ -1,0 +1,25 @@
+.plansScreen{
+    border-bottom: 1px solid #282c2d;
+}
+.basic-button{
+    background-color: #e50914;
+    font-size: 1rem;
+    border: none;
+    color: white;
+    padding: 8.5px 18.5px;
+    margin-top: 3.5%;
+    cursor: pointer;
+}
+.basicPlan, .standardPlan, .premiumPlan{
+    margin-top: 3%;
+    height: 70px;
+
+}
+
+.buttonkadiv{
+    float: right;
+}
+h5{
+    font-weight: 450;
+    color: gray;
+}
